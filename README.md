@@ -1,1 +1,1 @@
-# PowerBI_sales_project
+This project focuses on the pizza sales distribution based on flavors,base sauce and Crust Type which were done using donut charts and clustered bar charts using the PowerBI platform.Have made use of cards for total revenue and total number sold.Slicer feature is used to find the distribution based on the branch names.
